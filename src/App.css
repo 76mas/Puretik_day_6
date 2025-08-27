@@ -179,6 +179,8 @@ header{
 .select-input select{
     border: none;
     font-size: 16px;
+        background-color: transparent;
+    color:#202142;
     padding-right:10px ;
    margin-right: 20PX;
     outline: none;
@@ -421,6 +423,8 @@ gap: 20px;
 
 .select-input select{
     border: none;
+
+
     font-size: 16px;
     padding-right:0px ;
   

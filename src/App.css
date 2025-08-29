@@ -234,10 +234,12 @@ header{
   border-radius: 90px;
   background-color: #fcfcfc;
   gap:15px;
+  color: #78798E;
 }
 
 .buttons .active1{
   background-color: #fff;
+  color: #202142;
   box-shadow: 0  5px 8px #66666623;
   padding: 10px 30px;
   border-radius: 30PX;

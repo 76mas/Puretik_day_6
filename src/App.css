@@ -54,10 +54,14 @@ header{
   gap: 20px;
   color: #666;
 }
+.content .nav div{
+  padding: 5px 10px;
+}
 .content .nav .active3{
   color: #202142;
+      transition: .3s ease;
   background-color: #F1F1FD;
-  padding: 5px 20px;
+  /* padding: 5px 20px; */
   border-radius: 20px;
 }
 .auth{
@@ -243,6 +247,7 @@ header{
   box-shadow: 0  5px 8px #66666623;
   padding: 10px 30px;
   border-radius: 30PX;
+      transition: .3s ease;
 }
 .buttons div{
   width: 180px;
@@ -259,6 +264,8 @@ header{
 .nav2 div{
   cursor: pointer;
   padding: 0 20px;
+    border: 1px solid transparent;
+    transition: .3s ease;
 }
 
 .nav2 div p{
@@ -274,7 +281,7 @@ header{
   height: 50px;
   /* width: 60px; */
   border-radius: 50px;  
-  
+    transition: .3s ease;
 
 }
 
